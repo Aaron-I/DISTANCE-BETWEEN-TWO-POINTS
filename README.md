@@ -20,10 +20,10 @@ Assign the values of coordinates in the formula
 End the program
 
 ### PROGRAM:
+```
 #Program to find the distance between two points.
 #Developed by: AARON I
 #RegisterNumber:23002289
-```
 x1,x2,y1,y2=10,4,6,2
 d=(((x2-x1)**2)+((y2-y1)**2))**0.5
 print(round(d,2))  
